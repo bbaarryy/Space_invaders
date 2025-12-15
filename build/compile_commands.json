@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/home/dimon/projects/Space_invaders_me/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/SpaceInvaders.dir/src/main.cpp.o -c /home/dimon/projects/Space_invaders_me/src/main.cpp",
+  "file": "/home/dimon/projects/Space_invaders_me/src/main.cpp",
+  "output": "CMakeFiles/SpaceInvaders.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/dimon/projects/Space_invaders_me/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/SpaceInvaders.dir/src/Game.cpp.o -c /home/dimon/projects/Space_invaders_me/src/Game.cpp",
+  "file": "/home/dimon/projects/Space_invaders_me/src/Game.cpp",
+  "output": "CMakeFiles/SpaceInvaders.dir/src/Game.cpp.o"
+},
+{
+  "directory": "/home/dimon/projects/Space_invaders_me/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/SpaceInvaders.dir/src/Enemy.cpp.o -c /home/dimon/projects/Space_invaders_me/src/Enemy.cpp",
+  "file": "/home/dimon/projects/Space_invaders_me/src/Enemy.cpp",
+  "output": "CMakeFiles/SpaceInvaders.dir/src/Enemy.cpp.o"
+},
+{
+  "directory": "/home/dimon/projects/Space_invaders_me/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/SpaceInvaders.dir/src/Shuttle.cpp.o -c /home/dimon/projects/Space_invaders_me/src/Shuttle.cpp",
+  "file": "/home/dimon/projects/Space_invaders_me/src/Shuttle.cpp",
+  "output": "CMakeFiles/SpaceInvaders.dir/src/Shuttle.cpp.o"
+},
+{
+  "directory": "/home/dimon/projects/Space_invaders_me/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/SpaceInvaders.dir/src/Bullet.cpp.o -c /home/dimon/projects/Space_invaders_me/src/Bullet.cpp",
+  "file": "/home/dimon/projects/Space_invaders_me/src/Bullet.cpp",
+  "output": "CMakeFiles/SpaceInvaders.dir/src/Bullet.cpp.o"
+},
+{
+  "directory": "/home/dimon/projects/Space_invaders_me/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/SpaceInvaders.dir/src/Explosion.cpp.o -c /home/dimon/projects/Space_invaders_me/src/Explosion.cpp",
+  "file": "/home/dimon/projects/Space_invaders_me/src/Explosion.cpp",
+  "output": "CMakeFiles/SpaceInvaders.dir/src/Explosion.cpp.o"
+}
+]
